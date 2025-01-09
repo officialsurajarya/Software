@@ -1,0 +1,153 @@
+
+Typing Meter End-User License Agreement
+
+Last updated: January 8, 2015
+
+IMPORTANT - READ CAREFULLY BEFORE DOWNLOADING, INSTALLING OR USING THE TYPING METER SOFTWARE (THE "SOFTWARE") FROM www.typingmeter.com (THE "SITE").
+
+This End-User License Agreement ("EULA") is a binding legal agreement between you and Typing Innovation Group Ltd., a company located in Helsinki, Finland, with a principal business address of Eerikinkatu 4 A 16, 00100 Helsinki, FINLAND (the "Company") for the Software being distributed with this EULA. As used in this EULA, the term "Software" shall include internet-based and other services provided by the Company, any systems, servers, devices or other items related to such Company services, any browser extensions distributed by the Company, any website “widgets” distributed by the Company which integrate software functionality or limited portions thereof into user websites, and any patches, updates, modified versions, service packs and upgrades which may be provided by the Company from time to time.
+
+BY CLICKING ON THE "I UNDERSTAND AND AGREE" BUTTON OR "OK" BUTTON BELOW, OR BY INSTALLING, COPYING OR USING THE SOFTWARE OR ANY PORTION(S) THEREOF, YOU ACKNOWLEDGE THAT YOU HAVE CAREFULLY READ AND UNDERSTOOD THE TERMS OF THIS EULA AND AGREE TO BE LEGALLY BOUND BY THE TERMS OF THIS EULA. IF YOU SELECT "CANCEL," THE INSTALLATION PROCESS WILL NOT PROCEED. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT INSTALL, COPY OR USE THE SOFTWARE ON ANY DEVICE.
+
+FURTHERMORE, BY ACCEPTING THE TERMS OF THIS EULA, YOU HEREBY (1) WAIVE ANY RIGHTS OR REQUIREMENTS UNDER ANY LAWS OR REGULATIONS IN ANY JURISDICTION WHICH REQUIRE AN ORIGINAL (NON-ELECTRONIC) SIGNATURE OR DELIVERY OR RETENTION OF NON-ELECTRONIC RECORDS, TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, AND (2) YOU HEREBY ACKNOWLEDGE THAT YOU ARE FAMILIAR WITH AND AGREE TO THE TERMS OF THE COMPANY’S PRIVACY POLICY AVAILABLE AT www.typingmeter.com/privacy.html.
+
+IF YOU ARE NOT THE END USER AND ARE INSTALLING THIS SOFTWARE ON ANY DEVICE ON BEHALF OF THE END USER, YOU WARRANT AND REPRESENT THAT YOU ARE AUTHORIZED TO ACT ON BEHALF OF THE END USER AND TO ACCEPT AND BIND THE END USER TO THE TERMS OF THIS EULA, AND YOU FURTHER AGREE THAT YOU (AND YOUR COMPANY, IF APPLICABLE) SHALL BE LEGALLY OBLIGATED TO FULLY INDEMNIFY, DEFEND AND HOLD HARMLESS THE COMPANY AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AFFILIATES AND AGENTS, AND ANY OTHER SERVICE PROVIDER THAT FURNISHES SERVICES TO YOU IN CONNECTION WITH THE SOFTWARE, FROM AND AGAINST ANY AND ALL CLAIMS, LOSSES, DAMAGES AND EXPENSE (INCLUDING ATTORNEYS’ FEES) ARISING FROM OR RELATED TO THE COMPANY’S PROVISION OF THE SOFTWARE AND RELATED SERVICES.
+
+GRANT OF LICENSE
+
+Subject to your full compliance at all times with the terms and conditions set forth in this EULA, the Company hereby grants you a limited, personal, non-commercial (unless otherwise agreed in writing by the Company), non-exclusive, non-transferable license to:
+ 1.download, install and use a single copy of the Software on one hard disk or other storage device of a personal computer or mobile device such as a phone or tablet (each, a "Device") for the sole purpose of personally using the Software for services provided by Company (the "Services"), and for the purposes for which the Software and the Services are provided to you by the Company (the "Purposes");
+ 2.copy the Software on one Device for backup and archival purposes only; and
+ 3.use the documentation that accompanies the Software or is available on-line for personal, non-commercial (unless otherwise agreed in writing by the Company) reference purposes only.
+ 
+
+You may use the Software only as a single product on a single Device. You may not separate its component parts, nor install a copy of the Software on a network storage device or server.
+
+LICENSE EXCLUSIONS AND RESTRICTIONS
+
+The following exclusions and restrictions shall apply at all times to your use of the Software and/or the Services:
+ 1.You are expressly prohibited from accessing and using this Software for any commercial purpose.
+ 2.You may not grant access to your account to any other person or entity;
+ 3.You may not make any use of the Software in whole or in part that is not expressly permitted by the terms of this EULA;
+ 4.You may not sell, assign, rent, lease, sublicense, distribute, market, commercialize, disclose, export, import, act as an intermediary or provider, or otherwise grant any rights to any third party with respect to, the Software or any part thereof;
+ 5.You may not undertake, cause, permit or authorize any modification of the Software or the creation of derivative works;
+ 6.You may not translate, reverse engineer, decompile, disassemble or hack the Software or any part thereof;
+ 7.You may not create, distribute or disseminate any obscene or scandalous work, as defined by any applicable law at the time the work is created, using the Software;
+ 8.You may not use any of the Software or the Services in any manner that will or could damage, disable, overburden or impair the Services or that will or could interfere with any other party’s use and enjoyment of the Services; and
+ 9.You may not attempt to gain unauthorized access to any service, account, computer systems or computer networks associated with the Services.
+ 
+
+Any information derived from any of these above-described activities constitutes confidential information of the Company, and the Company shall retain all rights therein.
+
+You acknowledge and agree to use the Services solely for the Purposes.
+
+BACK-UPs
+ 
+In the event you ordered a backup, the Company makes no representations or warranties of any kind whatsoever with respect to the operation, availability, performance, or use of any such backup. Backups are provided by the Company on an "as is, where is, with all defects" basis. Without derogating from any other provision in this EULA, the Company hereby disclaims any and all warranties with respect to backups, including without limitation, any and all implied warranties of title, non-infringement, merchantability, or fitness for a particular purpose.
+
+AVAILABILITY OF SERVICES
+ 
+The Company does not warrant that the Services will be available 24 hours per day, 7 days per week, nor does it warrant that the Services will be provided properly or completely. If your access to the Services is suspended or interrupted or a fault or defect occurs which prevents your access to the Services, the Company will attempt to restore access to the Services (to the extent determined solely by the Company in its discretion). The Company will have no liability to you for the unavailability of the Services at any time. In addition, the Company reserves the right, in its sole discretion, at any time and without prior notice, to refuse access to the Services to any individual, company, network, institution or other entity in violation of the terms of this EULA, or to cease providing the Services in whole or in part.
+
+The Software and Services are designed to work with current standard software and operating systems. In the event you install or update any software or operating systems there is no assurance that the Software or Services you purchased will work as intended (or at all) with such software or operating systems. In such case the Company may provide you with an option to purchase an updated version of the Software and/or pay an additional fee in order to be able to use the Services with such software or operating systems. In any event you will not have any claims or demands against the Company in connection with the Software or Services you purchased not working as intended (or at all) with such software or operating systems.
+
+PROPRIETARY RIGHTS
+ 
+The Software and the Services are protected by copyright and other intellectual property laws and international treaties. The Software and the Services are licensed and not sold, and you will acquire no ownership rights of any kind or nature whatsoever in the Software and the Services.
+
+The Company (or its third party providers, if any) reserves all rights, including proprietary rights, not expressly and specifically granted to you in this EULA. Without limiting the foregoing, the Company (or its third party providers, if any) retains all title, right, and interest in and to the Software, the Services, and all documentation, translations, enhancements, improvements or other modifications made to or derived from the Software, including all patches, revisions, service packs and other updates. The proprietary rights reserved hereby include, without limitation, all patents, patent applications, copyrights, trademarks, service marks, know-how, source codes and any and all other applicable intellectual property rights and interests in and to the Software, the Services and all documentation, translations, enhancements, improvements or other modifications made to or derived therefrom.
+
+In addition, when receiving the Services, the Software communicates with Company's servers.
+
+UPDATES
+ 
+The terms of this EULA apply to the downloading, installation and use of the Software and the Services. The Company may from time to time revise or update the Software with or without any notice to you, including without limitation, updating, changing, redesigning and/or replacing the user interface and/or the user experience. Such revisions and updates will be supplied according to the Company's then prevailing policies, which may change from time to time at the sole discretion of the Company and may be performed by being automatically downloaded and installed on your computer. You acknowledge and agree that the Company and its affiliates may automatically download and install such revisions and updates on your computer without providing you with any notification.
+
+PRIVACY; PASSWORD AND USER ID
+ 
+Upon activation, the Software automatically communicates with the Company's servers on the internet. The Company will use any personally identifiable information (e.g., name, address, age, etc.) only for the purposes specified in its Privacy Policy, the terms of which are set forth below and incorporated herein by reference and, by your acceptance of this EULA, to which you agree to be bound. In order to operate the Service, you will receive a User ID and password. You agree to notify the Company in writing of any unauthorized and/or fraudulent use of your User ID or password.
+
+INDEMNIFICATION
+ 
+The Company will not be liable for any unauthorized or fraudulent use of Your User ID or password. You agree to indemnify, defend and hold harmless the Company and its officers, directors, employees, affiliates and agents and any other service provider who furnishes services to you in connection with the Services, from any and all claims, losses, damages and expenses (including attorneys’ fees) relating to your use of the Software or the Services, including unauthorized or fraudulent use of your User ID or password.
+
+DISCLAIMER OF WARRANTIES
+ 
+THE SOFTWARE AND/OR THE SERVICES MAY CONTAIN ERRORS, BUGS AND OTHER PROBLEMS WHICH COULD CAUSE SYSTEM CRASH OR FAILURE. THE COMPANY RESERVES THE RIGHT TO ALTER THE SOFTWARE AND/OR THE SERVICES AT ANY TIME, AND ANY RELIANCE ON THE SOFTWARE AND/OR THE SERVICES OR THEIR QUALITY OR PERFORMANCE IS AT THE SOLE RISK OF THE USER. TO THE FULLEST EXTENT PROVIDED BY LAW, THE SOFTWARE AND THE SERVICES ARE PROVIDED "AS IS AND WITH ALL FAULTS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE ENTIRE RISK AS TO THE RESULTS AND PERFORMANCE OF THE SOFTWARE AND THE SERVICES (INCLUDING, WITHOUT LIMITATION, WITH RESPECT TO SERVICES RELATING TO CORRECTIONS, PREDICTIONS OR TRANSLATION) IS ASSUMED FULLY AND EXCLUSIVELY BY YOU. THE COMPANY AND ITS THIRD PARTY LICENSORS, IF ANY, HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS, EITHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES, DUTIES OR CONDITIONS OF MERCHANTABILITY, OF FITNESS FOR A PARTICULAR PURPOSE, OF ACCURACY, RELIABILITY OR AVAILABILITY, OF RESULTS, OF WORKMANLIKE EFFORT, OF FREEDOM FROM VIRUSES, INFECTIONS AND MALWARE, AND OF TITLE AND NON-INFRINGEMENT, ALL WITH RESPECT TO THE SOFTWARE AND SERVICES. IN PARTICULAR, THE COMPANY DOES NOT REPRESENT OR WARRANT TO YOU THAT YOUR USE OF THE SERVICE WILL MEET YOUR REQUIREMENTS, YOUR USE OF THE SERVICE WILL BE UNINTERUPTED, TIMELY, SECURE OR FREE FROM ERROR, THAT ANY INFORMATION OBTAINED BY YOU AS A RESULT OF YOUR USE OF THE SERVICES (INCLUDING, WITHOUT LIMITATION, WITH RESPECT TO USE OF CORRECTIONS, PREDICTIONS OR TRANSLATION FEATURES INCLUDED IN THE SERVICES, IF ANY) WILL BE COMPLETE, ACCURATE AND RELIABLE, AND THAT DEFECTS IN THE OPERATION OR FUNCTIONALITY OF ANY SOFTWARE PROVIDED TO YOU AS PART OF THE SERVICES WILL BE CORRECTED. . THE COMPANY AND ITS THIRD PARTY LICENSORS FURTHER EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES THAT THE SOFTWARE WILL NOT LOG OR RECORD PASSWORDS OR CONFIDENTIAL OR PERSONAL INFORMATION, NOR THAT THE SOFTWARE CANNOT BE HACKED BY A THIRD PARTY. THE COMPANY EXPRESSLY DISCLAIMS ANY AND ALL LIABILITY FOR THE ACTIONS OF ANY THIRD PARTY IN MISUSING THE SOFTWARE TO ACCESS ANY INFORMATION LOGGED AND/OR RECORDED BY THE SOFTWARE.
+
+LIMITATION OF LIABILITY
+ 
+IN NO EVENT SHALL THE COMPANY OR ANY OF ITS THIRD PARTY PROVIDERS OR THEIR RESPECTIVE OFFICERS, DIRECTORS, STOCKHOLDERS, EMPLOYEES, AGENTS OR REPRESENTATIVES BE LIABLE OR RESPONSIBLE FOR ANY LOSS, INJURY, CLAIM, LIABILITY, DAMAGE OR EXPENSE OF ANY KIND OR NATURE, INCLUDING WITHOUT LIMITATION, DIRECT, INDIRECT, SPECIAL, EXEMPLARY, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OR FOR LOST PROFITS, ATTORNEYS’ FEES, LOST SAVINGS, LOST REVENUE OR BUSINESS, FOR ANY INTERRUPTION OF SERVICE OR MALFUNCTION, ERROR OR LOSS OF USE OF THE SERVICES OR ANY CLAIM BY THE END USER OR ANY OTHER PARTY, HOWEVER CAUSED, BASED ON ANY THEORY OF LIABILITY, WHETHER IN TORT OR CONTRACT, ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE OR THE SERVICES, THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT FOR THE SOFTWARE OR THE SERVICES, THE PERFORMANCE OF THE SOFTWARE OR THE SERVICES OR ANY COMPONENTS THEREOF, HOWEVER CAUSED, EVEN IF THE COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OR LIKELIHOOD OF SUCH DAMAGES OR CLAIM. BY USING THE COMPANY WEBSITE, YOU EXPRESSLY ASSUME ALL RISK THAT THE INFORMATION AND MATERIALS ON THE SITE MAY BE INCOMPLETE, INACCURATE, OUT-OF DATE, OR MAY NOT MEET YOUR NEEDS OR REQUIREMENTS.
+
+WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, IN NO EVENT SHALL THE COMPANY’S AGGREGATE LIABILITY UNDER THE TERMS OF THIS EULA AND APPLICABLE LAW EXCEED THE AMOUNT ACTUALLY PAID BY YOU, IF ANY, FOR THE SOFTWARE AND/OR THE SERVICES. THE EXISTENCE OF MORE THAN ONE CLAIM OR SUIT WILL NOT ENLARGE OR EXTEND THESE LIMITATIONS AND THE REMEDIES SET FORTH HEREIN AND THE SAME SHALL CONSTITUTE YOUR SOLE AND EXCLUSIVE REMEDIES FOR ANY CLAIM FOR DAMAGES ARISING IN ANY WAY OUT OF THIS EULA. IF YOU ARE SUBJECT TO A JURISDICTION IN WHICH ANY OF THE DISCLAIMERS OR LIMITATIONS OF LIABILITY HEREIN IS NOT VALID, YOU AGREE TO BE BOUND BY THE SAME TO THE MAXIMUM EXTENT PERMITTED BY SUCH LAW OR REGULATIONS.
+
+YOUR SOLE AND EXCLUSIVE RIGHT OR REMEDY WITH RESPECT TO ANY PROBLEMS OR DISSATISFACTION WITH THE SOFTWARE OR THE SERVICES IS TO TERMINATE THIS EULA UNDER THE PROVISIONS OF THE SECTION ENTITLED "TERMINATION" BELOW.
+
+TERM AND TERMINATION
+ 
+SOLELY FOR THE MONTHLY LICENSE: Unless earlier terminated as provided herein, any license shall be valid for 30 days from the date of payment of the license fee and shall automatically terminate at the conclusion of such period, unless additional license fee(s) are paid in accordance with the terms then made available by the Company, in which case the license shall continue for the period for which such license fee(s) were paid.
+
+SOLELY FOR THE FREE LIMITED LICENSE: Unless earlier terminated as provided herein, any license shall be valid for the limited period specified by the Company upon your download of the Software starting from the date you downloaded the Software and shall automatically terminate at the end of such period, unless license fee(s) are paid within such period in accordance with the terms then made available by the Company, in which case the license shall continue for the period for which such license fee(s) were paid. You acknowledge and agree that the Company may frequently and significantly update, change, redesign and/or replace the user interface and/or the user experience at any time in its sole discretion, including frequently downloading and installing revisions and updates directly on your computer. You further acknowledge and agree that this free version is a limited version and as such your ability to use it is limited, including without limitation, you may not be able to use the Software in the same scope, capacity, functionality or otherwise in the manner that others who have paid for their licenses can use the Software and that features which are available in paid licenses may not be included in this license, all as such limitations shall be determined by Company from time to time in its sole discretion. Among other limitations, Company may limit your use of the Software to specific versions and/or limite the number of corrections to which you are entitled in a certain period of time (e.g. up to fifty (50) corrections per month), and, following the use of such limited license and until the end of said period you shall not be entitled to further use of the free license. You hereby confirm that you have no claim with respect to any of the above limitations that may be imposed from time to time by Company. You further agree and consent to the Software promoting the Company and its products to you and otherwise, including but not limited to adding a Company banner and/or a link to Company's website to certain or all items that interface with the Software (e.g., email messages). The above provisions for the free limited license are in addition to all other provisions of this EULA.
+
+SOLELY FOR FREE UNRESTRICTED LICENSE: Unless earlier terminated as provided herein, any license to any Software that is distributed for no license fee shall be perpetual. You acknowledge and agree that the Company may frequently and significantly update, change, redesign and/or replace the user interface and/or the user experience at any time in its sole discretion, including frequently downloading and installing revisions and updates directly on your computer. You further acknowledge and agree that some features which are available in other software products of the Company may not be included in this license and you confirm that you have no claim with respect thereto. In addition, you acknowledge and agree that the Company may terminate this license at any time at its sole discretion and that the Company is under no obligation to provide technical support under the terms of this EULA, and provides no assurance that any specific errors or discrepancies in the freely distributed Software will be corrected. You further agree and consent to the Software promoting the Company and its products to you and otherwise, including but not limited to adding a Company banner and/or a link to Company's website to certain or all items that interface with the Software (e.g., email messages). The above provisions for the free license are in addition to all other provisions of this EULA.
+
+FOR ALL LICENSES: This license and use of the Software pursuant to this EULA shall be effective until expiration or earlier termination of this EULA. Without prejudice to any other rights the Company may have, including available legal remedies, this EULA will terminate immediately and automatically if you fail at any time to comply with the terms and conditions set forth herein. You may terminate this EULA at any time by removing the Software from your system and destroying all copies of the Software, including backups, on your hard drive(s) and other storage media. Upon termination of this EULA for any reason, the license granted herein will automatically terminate and you (i) will cease to have and enjoy any and all rights to use the Software or the Services, and (ii) will remove the Software from all hard drives and other storage media and destroy all copies of the Software in your possession or under your control. The provisions in the Sections of this EULA entitled "PROPRIETARY RIGHTS", "INDEMNIFICATION", "DISCLAIMER OF WARRANTIES", "LIMITATION OF LIABILITY" AND "GENERAL PROVISIONS" will survive any termination of this EULA.
+
+IMPORT AND EXPORT RESTRICTIONS
+ 
+You acknowledge that the Software may be subject to applicable domestic and international import and export restrictions, including restrictions imposed by the U.S. Export Administration Regulations as well as end-user, end-use and destination restrictions issued by the domestic government and the governments of other nations. You agree to comply with all applicable national and international laws that apply to the transport of the Software across national borders or to its use in any such jurisdiction.
+
+GENERAL PROVISIONS
+ 
+The Company reserves the right to modify the terms of this EULA at any time and from time to time by providing such revised terms to you or by publishing the revised terms on the Company Website. The terms of any such revised EULA shall become effective within seven (7) days of such publishing or provision to you, unless you sooner expressly accept such revised EULA by clicking on the accept button. The express acceptance by you, or your continued use of the Software or the Services after expiration of the seven (7) days’ notice period shall constitute your acceptance to be bound by the terms and conditions of the revised EULA. You can find the latest version of the EULA at the Company Website.
+
+You acknowledge and agree that, with respect to any Company App designed for use on an Apple, Inc. iOS-powered mobile device, if any of the terms and conditions of this EULA are inconsistent or in conflict with Apple Inc.’s applicable instructions for Minimum Terms for Developer’s End User License Agreement (currently located at http://www.apple.com/legal/itunes/appstore/dev/minterms/), the terms and conditions of Apple’s instructions for Minimum Terms of Developer’s End User License Agreement shall apply.
+
+You acknowledge and agree that, with respect to any Company App downloaded from Amazon Digital Services, Inc.'s or any of its affiliates (collectively, "Amazon"), if any of the terms and conditions of this EULA are inconsistent or in conflict with the default end user license terms as set forth in Amazon's App Distribution Agreement (currently located at https://developer.amazon.com/appsandservices/support/legal/da), the terms and conditions of such default end user license terms shall apply.
+
+The waiver of a breach of any term or condition of this EULA by the Company shall in no way be construed as a waiver of any other term or breach hereof or as a waiver of any future breach of the same term.
+
+This EULA constitutes the entire agreement between you and Company relating to the Software and the Services and supersedes any and all prior or contemporaneous oral or written communications, proposals and representations with respect to the Software, the Services or any other subject matter covered by this EULA.
+
+If any provision of these Terms shall be held by a court or tribunal of competent jurisdiction to be contrary to law, the remaining provisions of this EULA shall remain in full force and effect.
+
+To the greatest extent under applicable law, the laws of Finland shall govern the interpretation and enforcement of this EULA without regard to principles of conflicts of laws, and all disputes arising out of this EULA shall be subject to the sole and exclusive jurisdiction of the courts of Finland, except the Company shall have the right to bring an action for injunctive relief in any court of competent jurisdiction. If applicable law prohibits any of the foregoing provisions regarding choice of law or jurisdiction, then the applicable law regarding such matters shall govern the interpretation and enforcement of this EULA and/or jurisdiction for dispute resolution. 
+
+All disputes arising under this EULA shall be submitted to binding arbitration in Helsinki, Finland under the Commercial Rules of the International Chamber of Commerce by one Arbitrator mutually agreed upon both you and Company in accordance with the aforementioned rules. All costs of the arbitration shall be borne equally by both parties to this agreement, regardless of the final decision. The defaulting party as determined by the Arbitrator, shall pay all other costs and expenses, including reasonable attorney's fees, incurred by the party in enforcing its rights under this Agreement. The arbitration award shall be final and each party shall comply in good faith to the entry of the Arbitrator’s award in any court having jurisdiction. If juridical enforcement or review of the Arbitrator’s decision is sought, the prevailing party shall be entitled to costs and reasonable attorneys’ fees. For the avoidance of doubt, all claims you bring against Company must be resolved in accordance with this Section. All claims filed or brought against Company contrary to this Section shall be considered improperly filed. Should you file a claim contrary to this Section, you agree that Company may recover attorneys’ fees and costs of up to One Thousand U.S. Dollars ($1000.00) provided that Company has notified you in writing of the improperly filed claim and you have failed to properly withdraw the claim.
+ 
+YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ THIS EULA AND UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS SET FORTH HEREIN. BY CLICKING ON THE "I UNDERSTAND AND AGREE" BUTTON AND/OR CONTINUING TO INSTALL OR USE THE SOFTWARE, YOU EXPRESSLY AND IRREVOCABLY CONSENT TO BE BOUND BY THE TERMS AND CONDITIONS SET FORTH IN THIS EULA.
+
+The following is a listing of open source components (or portions thereof) that are distributed and/or used with this Company product, and the corresponding copyright statements and licenses which apply thereto. This Company product may only use portions of a given component.
+ 1.JSON (http://www.json.org/license.html) 
+Copyright (c) 2002 JSON.org
+ 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+ 
+The Software shall be used for Good, not Evil.
+ 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ 
+2.jQuery (http://jquery.org/) 
+Copyright (c) 2011 John Resig, http://jquery.com/
+ 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+ 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ 
+3.Actionscript - Adobe package (http://www.adobe.com/devnet/xmp/library/eula.html)
+ Copyright (c) 2009, Adobe Systems Incorporated All rights reserved
+ 
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+ ?Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+ ?Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+ 
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ 
+
+Should you have any questions concerning this EULA contact Typing Innovation Group Ltd, Eerikinkatu 4 A 16, 00100 Helsinki, FINLAND. Fax: +358 9 8240 8352
+
+
+
+© 2015 Typing Innovation Group Ltd. All rights reserved.
+
+ 
