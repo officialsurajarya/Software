@@ -1,0 +1,82 @@
+npx @react-native-community/cli init newapp
+
+
+
+Office Active CMD 
+Office 7 : GMG3P-FHGXW-VTQ94-4QW8F-VG2HM 
+
+On window Installation bypass internet Connection CMD
+OOBE\BYPAANRO
+
+Feel Like a Hacker
+CMD
+1.	curl ascii.live/forrest
+2.	curl ascii.live/rick
+3.	curl parrot.live
+4.	color a (enter) dir/s
+
+------------------------------------------------------------------------
+C code Run
+
+gcc hello.c
+./a.exe
+
+---------------------------------------------------------------
+
+sudo su
+apt-get install bluetooth 
+/etc/init.d/bluetooth status
+/etc/init.d/bluetooth start
+------------------------------------------------------------------
+
+sudo dpkg -i file_name
+---------------------------------------------------
+
+for tar.gz
+tar xvzf file_name
+-------------------------------------------------
+
+
+sudo apt install kali-desktop-gnome -y
+-----------------------------------------------------------
+
+yt video download
+sudo apt install yt-dlp
+sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+sudo chmod a+rx /usr/local/bin/yt-dlp
+
+For Windows Send Environment Variable 
+
+yt-dlp -U
+yt-dlp <video_url>
+
+yt-dlp.exe -i -f 137+140 <1920x1080.mp4> 
+yt-dlp.exe -i -f 402+140 <hdr.60fps.3840x2160.mp4>
+
+Audio 
+
+audio
+yt-dlp -x --audio-format mp3 <url>
+-----------------------------------------------------
+
+winget list
+
+window app update
+
+winget update --all
+winget upgrade --all
+
+---------------------------------------------------------
+
+shutdown -s //shutdown    -r //restart     -l //lock
+shutdown /s /t 50 /c " i am going to sleep now"
+
+--------------------------------------------------------------------
+
+Software Installation Website 
+1. Deep web nest
+2. FileCr
+3. Getintopc
+
+Activation Scrpt
+irm https://get.activated.win | iex
